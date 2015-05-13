@@ -8,4 +8,4 @@ chrome.tabs.onUpdated.addListener(function (tabId) {
   chrome.pageAction.show(tabId);
 });
 
-console.log('\'Allo \'Allo! Event Page for Page Action');
+console.log('\'Hello \'Ming! Event Page for Page Action');
