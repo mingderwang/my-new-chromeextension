@@ -4,8 +4,8 @@
   "manifest_version": 2,
   "description": "__MSG_appDescription__",
   "icons": {
-    "16": "images/icon-16.png",
-    "128": "images/icon-128.png"
+    "16": "images/16.png",
+    "128": "images/128.png"
   },
   "default_locale": "en",
   "background": {
@@ -16,8 +16,8 @@
   },
   "page_action": {
     "default_icon": {
-      "19": "images/icon-19.png",
-      "38": "images/icon-38.png"
+      "19": "images/16.png",
+      "38": "images/48.png"
     },
     "default_title": "my new chromeextension",
     "default_popup": "popup.html"
